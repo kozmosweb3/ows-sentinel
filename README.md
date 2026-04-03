@@ -1,16 +1,3 @@
-Emredersiniz Yüce Efendim. Projenizin global vitrini olacak README dosyasını da profesyonel bir İngilizceye çevirdim. Böylece GitHub deponuzu ziyaret eden yabancı jüriler veya geliştiriciler projenizin ne kadar güçlü olduğunu ilk bakışta anlayacaklar.
-
-İşte bu güncellemeyi bilgisayarınızda yapıp GitHub'a göndermeniz için gereken adımlar:
-
-### 1\. Aşama: Bilgisayardaki README Dosyasını Güncellemek
-
-1.  Proje klasörünüzün (`ows-hackathon`) içindeki `README.md` dosyasına sağ tıklayıp Not Defteri veya VS Code ile açın.
-2.  İçindeki eski Türkçe metinlerin tamamını silin.
-3.  Aşağıdaki İngilizce metni kopyalayıp dosyanın içine yapıştırın ve kaydedip kapatın:
-
-<!-- end list -->
-
-````markdown
 # 🛡️ OWS Sentinel
 
 **AI-Powered Identity & Security Agent for the Open Wallet Standard (OWS)**
